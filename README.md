@@ -77,5 +77,6 @@ The description was populated using the [Aaron Browser](https://aaron-web-browse
   
 
 ### other
+* [https://www.langdock.com/](https://www.langdock.com/)
 * [Pluginlab.ai](https://www.pluginlab.ai/)
 * [Trustedsite.com](https://www.trustedsite.com/verify?host=copilot.us)
