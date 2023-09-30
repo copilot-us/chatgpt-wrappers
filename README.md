@@ -61,6 +61,8 @@
 * [Zmo.ai](https://www.zmo.ai/): ZMO.AI offers a suite of AI-powered image generation tools, including background removal, AI anime generation, and more.
 * [Pornpen.ai](https://pornpen.ai/): The site appears to be related to AI-generated content, but specific details are not available.
 
+### analytics
+* [https://avian.io/](https://avian.io/)
 
 ### video generation
 
@@ -80,3 +82,4 @@ The description was populated using the [Aaron Browser](https://aaron-web-browse
 * [https://www.langdock.com/](https://www.langdock.com/)
 * [Pluginlab.ai](https://www.pluginlab.ai/)
 * [Trustedsite.com](https://www.trustedsite.com/verify?host=copilot.us)
+  
