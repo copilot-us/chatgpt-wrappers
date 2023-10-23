@@ -6,6 +6,9 @@
 - [image generation](image-generation)
 - [video generation](video-generation)
 
+### Data
+ - ** [Clay](https://www.clay.com/)**: Combine 50+ data providers, real-time scraping, and AI to send 1-1 personalized campaigns that book more meetings.
+
 
 ### Companion
 
